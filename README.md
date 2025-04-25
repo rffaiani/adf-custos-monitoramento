@@ -34,7 +34,7 @@ https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-bes
 ###### Criando o Data Factory:
 https://learn.microsoft.com/pt-br/azure/data-factory/quickstart-create-data-factory
 
-(imagem)
+![Criar data factory](./prints/z_create_data_factory.png)
 
 
 3. **Personalização de Monitoramento**
@@ -49,7 +49,8 @@ https://learn.microsoft.com/pt-br/azure/cost-management-billing/costs/overview-c
 ###### Criando dashboards:
 https://learn.microsoft.com/pt-br/azure/cost-management-billing/costs/reporting-get-started
 
-(imagem)
+![Dashboard](./prints/z_dashboard.png)
+
 ###### Usar alertas de custos:
 https://learn.microsoft.com/pt-br/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending
 
